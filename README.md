@@ -1,0 +1,1 @@
+Code for Research Paper SPE-220950-MS "Reference Synthetic Dataset for Drilling Inventory Optimization" - presented at ATCE "Annual Techincal Conference and Exhibition" in New Orleans, USA, in September 2024
